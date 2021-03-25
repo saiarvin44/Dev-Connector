@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb+srv://arvind:arvind@devconnector.t1rcc.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "clientId": "148e5ba2c7ce91f0bb75",
-  "clientSecret": "edec178fcbd49c9d0d4e11a0c28c5132f56a24b8"
+  "mongoURI": "",
+  "jwtSecret": "",
+  "clientId": "",
+  "clientSecret": ""
 }
